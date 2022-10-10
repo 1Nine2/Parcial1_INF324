@@ -20,6 +20,18 @@ https://youtu.be/fvPpuZFABx4
 
 Y ahora la solucion de la pregunta:
 
+8.      Implemente un WEB SERVICE en VISUAL STUDIO que permita altas, bajas y cambios en PERSONA, usando la misma en aplicación WindowsForm.
+
+
+Video:
+
+https://youtu.be/ab1sUgVaFag
+
+
+
+
+Y ahora la solucion de la pregunta:
+
 9.      Implemente un Micro Servicios con PHP que permita altas, bajas y cambios en PERSONA
 
 Video:
