@@ -15,3 +15,12 @@ Esta es la solucion de las siguientes preguntas:
 
 Video:
 https://youtu.be/fvPpuZFABx4
+
+
+
+Y ahora la solucion de la pregunta:
+
+9.      Implemente un Micro Servicios con PHP que permita altas, bajas y cambios en PERSONA
+
+Video:
+https://youtu.be/Xj8ZP-nNHq4
